@@ -1,10 +1,4 @@
 ---
-````markdown
-# 🌱 ESP32 Soil Moisture Based Watering System
-
-This project is a simple **automatic/manual soil watering system** built using an ESP32. It reads soil moisture using a **digital soil sensor (DO pin)** and controls a water pump via a web interface.
-
----
 
 ## 🔧 Features
 
