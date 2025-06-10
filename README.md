@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/29da5306-b604-44a9-9576-9634a0b70878)
+
 ## 🔧 Features
 
 - 💧 Manually start/stop the water pump from a mobile or laptop.
