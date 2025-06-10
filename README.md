@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/014036fc-362e-4bba-80e6-f8ba11c59a73)
+![image](https://github.com/user-attachments/assets/29da5306-b604-44a9-9576-9634a0b70878)
 ## 🔧 Features
 
 - 💧 Manually start/stop the water pump from a mobile or laptop.
@@ -13,7 +13,7 @@
 ### 📸 Project Photos
 
 ![Project Setup Placeholder](https://www3.lunapic.com/do-not-link-here-use-hosting-instead/174955794841545997?9219435722)
-![Project Setup Placeholder](https://www3.lunapic.com/do-not-link-here-use-hosting-instead/174955794841545997?9219435722)
+![Project Setup Placeholder](https://www3.lunapic.com/editor/working/174955794841545997?6657517204)
 
 ---
 
