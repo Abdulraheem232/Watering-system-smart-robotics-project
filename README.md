@@ -95,38 +95,5 @@ This project is a simple **automatic/manual soil watering system** built using a
    View real-time soil moisture and control the water pump.
 
 ---
-
-## 🖼 How to Add/Replace Images
-
-To embed or replace images:
-
-1. Place your images in a folder named `images/` inside the project directory.
-2. Replace the placeholders like:
-   ```markdown
-   ![Pump](images/pump.jpg)
-````
-
-3. Keep image sizes optimized (e.g., 800x600 px).
-
----
-
-## 🧾 Notes
-
-* DO pin gives digital output:
-  `HIGH (1)` = Dry soil
-  `LOW (0)` = Wet soil
-* Manual control from the webpage overrides auto behavior.
-* Designed for small home gardens or pots.
-
----
-
-## 📌 License
-
-This project is for educational and personal use. Feel free to modify and expand it.
-
----
-
-## 🙌 Credits
-
 Created by **Abdulraheem**.
 
