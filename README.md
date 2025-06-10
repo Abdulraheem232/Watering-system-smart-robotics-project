@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/014036fc-362e-4bba-80e6-f8ba11c59a73)
 ## 🔧 Features
 
 - 💧 Manually start/stop the water pump from a mobile or laptop.
@@ -12,8 +12,8 @@
 
 ### 📸 Project Photos
 
-![Project Setup Placeholder](https://mail.google.com/mail/u/0?ui=2&ik=3c17c968ae&attid=0.1&permmsgid=msg-f:1834543163020371978&th=19759b4974f3680a&view=fimg&realattid=19759b442f9cfd1ada71&disp=thd&attbid=ANGjdJ8EZW41f_uo6-lXjOu52zRZsj0WM_C5-3HufhnaNRLU_qSa93201oaY_E-bjHTWL-dPo6DRperHbetbob0NEWB4owFLCCTu38PNJJ0AZop4T9bZtPRGVkcW5LY&ats=2524608000000&sz=w1920-h946)
-![Project Setup Placeholder](https://mail.google.com/mail/u/0?ui=2&ik=3c17c968ae&attid=0.2&permmsgid=msg-f:1834543163020371978&th=19759b4974f3680a&view=fimg&realattid=19759b442f9cfc396262&disp=thd&attbid=ANGjdJ9ML12JvaLGnoqnDxF0DEVjuxWQklvhs2QA7kA-j9Egy2uRUnt-cvFanhp8jynRe94LnFkeksR96PURDBJ0oAo6iNYcDsiQdW1quZNGgF_SvJwYP-s5EECr0b4&ats=2524608000000&sz=w1920-h946)
+![Project Setup Placeholder](https://www3.lunapic.com/do-not-link-here-use-hosting-instead/174955794841545997?9219435722)
+![Project Setup Placeholder](https://www3.lunapic.com/do-not-link-here-use-hosting-instead/174955794841545997?9219435722)
 
 ---
 
