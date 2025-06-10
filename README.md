@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/778bca2a-a83b-45ca-92bf-f1e372eae01a)![image](https://github.com/user-attachments/assets/6c7faf2e-3c7f-4196-8296-0daafe9f4b76)![image](https://github.com/user-attachments/assets/cfdc8d11-c047-461a-a0d2-470eb3bdb7a4)![image](https://github.com/user-attachments/assets/d932ac9d-d152-42af-91a4-f4662a030cd8)---
 
 ## 🔧 Features
 
@@ -36,27 +36,24 @@
 
 | Component              | Description                         | Image Placeholder |
 |------------------------|-------------------------------------|-------------------|
-| ESP32 Dev Board        | Microcontroller with Wi-Fi          | ![ESP32](images/esp32-placeholder.jpg) |
-| Soil Moisture Sensor (DO) | Digital soil sensor               | ![Soil Sensor](images/soil-sensor-placeholder.jpg) |
-| 2-Channel Relay Module | To control the pump safely          | ![Relay Module](images/relay-placeholder.jpg) |
-| Water Pump (5V or 12V) | Submersible pump                    | ![Pump](images/pump-placeholder.jpg) |
-| Power Supply           | 5V/12V adapter or USB               | ![Power](images/power-placeholder.jpg) |
-| Jumper Wires + Breadboard | For connections                  | ![Wires](images/wires-placeholder.jpg) |
+| ESP32 Dev Board        | Microcontroller with Wi-Fi          | ![ESP32](https://electronation.pk/wp-content/uploads/2023/05/ESP-WR2-1.jpg) |
+| Soil Moisture Sensor (DO) | Digital soil sensor               | ![Soil Sensor](https://arduinodiy.wordpress.com/wp-content/uploads/2020/08/simplesensor2.png) |
+| L298n motor driver Module | To control the pump safely          | ![L298n motor driver](https://electronation.pk/wp-content/uploads/2023/05/51OLJML2OL._AC_UF10001000_QL80_.jpg) |
+| Water Pump (5V or 12V) | Submersible pump                    | ![Pump](https://digilog.pk/cdn/shop/files/Mini5VWaterPumpDiaphragmPumpMicroSelfPrimingSuctionDrinkingFountainWaterPumpWaterDispenserPump_6.webp?v=1734007520&width=720) |
+| Power Supply           | 5V/12V adapter or USB               | ![Power](https://m.media-amazon.com/images/I/71SJEh+4jDL.jpg) |
+| Jumper Wires + Breadboard | For connections                  | ![Wires](https://electronation.pk/wp-content/uploads/2023/05/758-04-1.jpg) |
 
 ---
 
 ## 🧠 Wiring Diagram
 
-> _Here’s how to wire everything together (replace the placeholder with your wiring image later)_
-
-![Wiring Diagram Placeholder](images/wiring-diagram-placeholder.jpg)
 
 ### 📌 Connections:
 
 | ESP32 Pin | Connected To           |
 |----------|------------------------|
-| GPIO 12  | Relay IN1 (Pump control) |
-| GPIO 13  | Relay IN2 (GND control or optional) |
+| GPIO 12  | L298n IN1 (Pump control) |
+| GPIO 13  | L298n IN2 (GND control or optional) |
 | GPIO 15  | Soil Moisture Sensor DO |
 | GND      | GND of all modules      |
 | VIN/5V   | Relay VCC & Soil VCC    |
