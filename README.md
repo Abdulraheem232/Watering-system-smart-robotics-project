@@ -77,7 +77,7 @@
 
 4. **Use Interface**
    View real-time soil moisture and control the water pump.
-
+You can buy all this in less than 20 dollars if you are in pakistan
 ---
 
 Created by **Abdulraheem**
